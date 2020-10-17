@@ -3,7 +3,7 @@ title: Gustav Purpleson
 sections:
   - type: hero_section
     title: Esempio Autore
-    subtitle: Breve Descrionene
+    subtitle: Breve Descrizionene
     align: center
     padding_top: medium
     padding_bottom: none
