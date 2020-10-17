@@ -214,10 +214,7 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Attenzione Alle Norme Anti Covid
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: Clicca per Scoprire le Nostre Raccomandazioni per Ridurre il Contagio
     actions:
       - label: Learn More
         url: /features
