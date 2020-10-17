@@ -20,7 +20,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Image Grid
+    title: I Nostri Migliori Scatti
     subtitle: Qualche Foto
     align: center
     grid_items:
