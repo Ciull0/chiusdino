@@ -76,7 +76,7 @@ sections:
         image: images/innaffiamento.jpg
         media_position: left
         media_width: fifty
-      - title: ''
+      - title: Gare e Campionati Nazionali
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
