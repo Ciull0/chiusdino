@@ -213,7 +213,7 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: This is Call To Action Section In <span>DIY Theme!</span>
+    title: Attenzione Alle Norme Anti Covid
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
