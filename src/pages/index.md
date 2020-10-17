@@ -9,7 +9,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/neat-sparrow.jpg
+    image: images/happy-crane.jpg
     media_position: left
     media_width: fifty
     align: left
