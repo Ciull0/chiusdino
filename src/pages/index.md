@@ -62,7 +62,7 @@ sections:
         image: images/coltratura.jpg
         media_position: right
         media_width: fifty
-      - title: The Big Title For the Feature
+      - title: Annaffiatura Frequente
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
