@@ -146,9 +146,8 @@ sections:
       - title: Fotografo
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Fotografo in Pista, sempre Pronto a immortalare i vostri Salti più
+          Mozzafiato
         content_align: left
         actions:
           - label: Learn More
