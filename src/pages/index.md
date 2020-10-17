@@ -6,9 +6,6 @@ sections:
     subtitle: Grande Pista da Enduro in Provincia di Siena
     content: 'Pista da Enduro con Servizio Bar, Fotografo nel Mezzo Alle Colline Senesi'
     actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
       - label: Learn More
         url: /features
         style: secondary
