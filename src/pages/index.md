@@ -12,7 +12,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/hero img.png
+    image: images/neat-sparrow.jpg
     media_position: left
     media_width: fifty
     align: left
