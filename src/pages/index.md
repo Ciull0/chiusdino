@@ -79,9 +79,8 @@ sections:
       - title: Gare e Campionati Nazionali
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          La Pista è Fiera di ospitare diversi Campionati, Nazionali e
+          Internazionali, dai livelli Amatoriali ai Professionisti
         actions:
           - label: Learn More
             url: /style-guide
