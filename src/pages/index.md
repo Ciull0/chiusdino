@@ -48,7 +48,7 @@ sections:
     subtitle: Qualche Esempio sulle Caratteristiche
     features:
       - title: Coltratura Accurata
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: La Pista è sempre in Perfette Condizioni
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
