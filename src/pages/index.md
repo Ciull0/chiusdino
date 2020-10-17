@@ -38,7 +38,7 @@ sections:
         image_align: center
       - image: images/fotopista.jpg
         image_align: center
-      - image: images/logo-8.svg
+      - image: images/foto7.jpg
         image_align: center
     grid_cols: four
     grid_gap_horiz: medium
