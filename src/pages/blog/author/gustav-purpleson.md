@@ -2,7 +2,7 @@
 title: Gustav Purpleson
 sections:
   - type: hero_section
-    title: Gustav Purpleson
+    title: Esempio Autore
     subtitle: The optional subtitle
     align: center
     padding_top: medium
