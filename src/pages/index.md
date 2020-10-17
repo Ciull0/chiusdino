@@ -257,7 +257,7 @@ sections:
     align: center
     background_color: secondary
   - type: blog_feed_section
-    title: Ultime Novità dal Chiusdino MotorPark
+    title: Ultime Novità dal Chiusdino MotoCrossPark
     subtitle: Parte Per Nuovi Articoli
     actions:
       - label: View All
