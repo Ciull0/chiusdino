@@ -64,9 +64,8 @@ sections:
         media_width: fifty
       - title: Annaffiatura Frequente
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          La pista viene frequentemente innaffiata per una tenuta di strada
+          ottimale nelle curve più difficili
         actions:
           - label: Learn More
             url: /style-guide
