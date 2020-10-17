@@ -34,7 +34,7 @@ sections:
         image_align: center
       - image: images/foto5.jpg
         image_align: center
-      - image: images/logo-6.svg
+      - image: images/foto6.jpg
         image_align: center
       - image: images/logo-7.svg
         image_align: center
