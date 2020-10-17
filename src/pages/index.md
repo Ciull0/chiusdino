@@ -278,7 +278,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: 'Altro Esempio di '
+    title: Altro Esempio di Bottone
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
