@@ -2,7 +2,7 @@
 title: Dianne Ameter
 sections:
   - type: hero_section
-    title: Dianne Amete
+    title: Autore 2
     subtitle: The optional subtitle
     align: center
     padding_top: medium
