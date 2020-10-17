@@ -50,9 +50,8 @@ sections:
       - title: Coltratura Accurata
         subtitle: La Pista è sempre in Perfette Condizioni
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          La pista viene coltrata molto spesso per garantire una aderenza sul
+          terreno ottimale e garantire sempre la sicurezza. 
         actions:
           - label: Learn More
             url: /style-guide
