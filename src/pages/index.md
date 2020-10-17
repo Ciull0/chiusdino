@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: La più Grande Pista da Enduro in Provincia di Siena
-    subtitle: La più Grande Pista da Enduro in Provincia di Siena
+    subtitle: Grande Pista da Enduro in Provincia di Siena
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
