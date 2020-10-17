@@ -111,10 +111,7 @@ sections:
     grid_items:
       - title: Bar Ristorante
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: Offriamo la Possibilità di mangiare e bere senza mai lasciare la pista
         content_align: left
         actions:
           - label: Learn More
