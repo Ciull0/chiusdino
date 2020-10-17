@@ -90,7 +90,7 @@ sections:
             icon_position: right
         image: images/italiani.jpg
         media_position: right
-        media_width: fifty
+        media_width: fourty
     feature_padding_vert: large
     align: center
     background_color: secondary
