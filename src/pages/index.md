@@ -99,7 +99,7 @@ sections:
       - title: >-
           Questo Sito web è completamente personalizzabile nei contenuti e  da
           voi, via Web
-        subtitle: Acc
+        subtitle: Il sito è modificabile tramite un sempice sito
         image: images/brandon-guidelines.png
         media_position: right
         media_width: thirty-three
