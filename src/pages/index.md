@@ -26,7 +26,7 @@ sections:
     grid_items:
       - image: images/foto1.jpg
         image_align: center
-      - image: images/logo-2.svg
+      - image: images/foto2.jpg
         image_align: center
       - image: images/logo-3.svg
         image_align: center
