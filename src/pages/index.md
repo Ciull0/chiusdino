@@ -76,7 +76,7 @@ sections:
         image: images/innaffiamento.jpg
         media_position: left
         media_width: fifty
-      - title: Gare e Campionati Nazionali
+      - title: Gare e Campionati
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
           La Pista è Fiera di ospitare diversi Campionati, Nazionali e
