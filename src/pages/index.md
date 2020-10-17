@@ -102,7 +102,7 @@ sections:
         subtitle: Il sito è modificabile tramite un sempice semplice sito web
         image: images/modifica sito.jpg
         media_position: right
-        media_width: thirty-three
+        media_width: sixty
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
