@@ -100,7 +100,7 @@ sections:
           Questo Sito web è completamente personalizzabile nei contenuti e  da
           voi, via Web
         subtitle: Il sito è modificabile tramite un sempice semplice sito web
-        image: images/brandon-guidelines.png
+        image: images/modifica sito.jpg
         media_position: right
         media_width: thirty-three
     feature_padding_vert: small
