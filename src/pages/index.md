@@ -21,7 +21,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Image Grid
-    subtitle: Qualche Esempio
+    subtitle: Qualche Foto
     align: center
     grid_items:
       - image: images/logo-1.svg
