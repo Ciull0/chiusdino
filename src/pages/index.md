@@ -109,7 +109,7 @@ sections:
     title: Griglia Con Caratteristiche
     subtitle: Esempio di Griglia
     grid_items:
-      - title: Section Item 1
+      - title: Bar Ristorante
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
