@@ -30,7 +30,7 @@ sections:
         image_align: center
       - image: images/foto3.jpg
         image_align: center
-      - image: images/logo-4.svg
+      - image: images/foto4.jpg
         image_align: center
       - image: images/logo-5.svg
         image_align: center
