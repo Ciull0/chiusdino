@@ -44,7 +44,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: Features Section
+    title: 'Lista Dei '
     subtitle: Qualche Esempio sulle Caratteristiche
     features:
       - title: The Big Title For the Feature
