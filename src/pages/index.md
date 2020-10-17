@@ -128,9 +128,8 @@ sections:
       - title: Ampia Area Parcheggio
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Possibilità di Piazzare Tende, Camper e Furgoni Attrezzati nell'ambio
+          Parcheggio
         content_align: left
         actions:
           - label: Learn More
