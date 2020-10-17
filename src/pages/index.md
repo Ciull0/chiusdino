@@ -96,7 +96,9 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: 'Questo Sito web è completamente personalizzabile nei contenuti e '
+      - title: >-
+          Questo Sito web è completamente personalizzabile nei contenuti e  da
+          voi, via Web
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
         media_position: right
