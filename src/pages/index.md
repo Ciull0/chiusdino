@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: La più Grande Pista da Enduro in Provincia di Siena
+    title: La pi
     subtitle: Grande Pista da Enduro in Provincia di Siena
     content: 'Pista da Enduro con Servizio Bar, Fotografo nel Mezzo Alle Colline Senesi'
     actions:
